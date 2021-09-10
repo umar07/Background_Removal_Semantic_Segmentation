@@ -1,6 +1,6 @@
 # Background Removal using Semantic Segmentation
 
-This is deep learing model that can be used to remove background from the images. The technique used is semantic segmentation, where we classify each pixel into a particular class. Try out the model here - 
+This is deep learing model that can be used to remove background from the images. The technique used is semantic segmentation, where we classify each pixel into a particular class. Try out the model here - [WEB-APP](https://share.streamlit.io/umar07/web_app_background_removal/main/web_deployment/app.py)
 
 **What is semantic segmentation?**
 Semantic segmentation refers to the process of linking each pixel in an image to a class label. These labels could include a person, car, flower, piece of furniture, etc., just to mention a few. We can think of semantic segmentation as image classification at a pixel level.
@@ -25,7 +25,6 @@ One of the predictions has been shown below.
 
 ![results](./results.png)
 
-This model is deployed on the web - , check it out.
 
 There's a lot that can be done in improving this work like using better, generalised datasets, more intricate architecture, latest SOTA techniques, etc. Meanwhile, read can see this [repository](https://github.com/anilsathyan7/Portrait-Segmentation) to know more about background removal using semantic segmentation.
 
